@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Noto Sans KR';
+  src: url('../../assets/fonts/NotoSans-Light/NotoSans-Light.eot');
+  src: url('../../assets/fonts/NotoSans-Light/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+    url('../../assets/fonts/NotoSans-Light/NotoSans-Light.woff') format('woff'),
+    url('../../assets/fonts/NotoSans-Light/NotoSans-Light.woff2') format('woff2'),
+    url('../../assets/fonts/NotoSans-Light/NotoSans-Light.otf') format('otf');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  src: url('../../assets/fonts/NotoSans-Regular/NotoSans-Regular.eot');
+  src: url('../../assets/fonts/NotoSans-Regular/NotoSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../../assets/fonts/NotoSans-Regular/NotoSans-Regular.woff') format('woff'),
+    url('../../assets/fonts/NotoSans-Regular/NotoSans-Regular.woff2') format('woff2'),
+    url('../../assets/fonts/NotoSans-Regular/NotoSans-Regular.otf') format('otf');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  src: url('../../assets/fonts/NotoSans-Bold/NotoSans-Bold.eot');
+  src: url('../../assets/fonts/NotoSans-Bold/NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../../assets/fonts/NotoSans-Bold/NotoSans-Bold.woff') format('woff'),
+    url('../../assets/fonts/NotoSans-Bold/NotoSans-Bold.woff2') format('woff2'),
+    url('../../assets/fonts/NotoSans-Bold/NotoSans-Bold.otf') format('otf');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  src: url('../../assets/fonts/NotoSans-Black/NotoSans-Black.eot');
+  src: url('../../assets/fonts/NotoSans-Black/NotoSans-Black.eot?#iefix') format('embedded-opentype'),
+    url('../../assets/fonts/NotoSans-Black/NotoSans-Black.woff') format('woff'),
+    url('../../assets/fonts/NotoSans-Black/NotoSans-Black.woff2') format('woff2'),
+    url('../../assets/fonts/NotoSans-Black/NotoSans-Black.otf') format('otf');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham-Book'),
+    url('../../assets/fonts/Gotham-Book/Gotham-Book.woff') format('woff'),
+    url('../../assets/fonts/Gotham-Book/Gotham-Book.woff2') format('woff2'),
+    url('../../assets/fonts/Gotham-Book/Gotham-Book.eot') format('eot'),
+    url('../../assets/fonts/Gotham-Book/Gotham-Book.otf') format('otf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham-Black'),
+    url('../../assets/fonts/Gotham-Black/Gotham-Black.woff') format('woff'),
+    url('../../assets/fonts/Gotham-Black/Gotham-Black.woff2') format('woff2'),
+    url('../../assets/fonts/Gotham-Black/Gotham-Black.eot') format('eot'),
+    url('../../assets/fonts/Gotham-Black/Gotham-Black.otf') format('otf');
+  font-weight: 700;
+  font-style: normal;
+}
